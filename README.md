@@ -1,4 +1,6 @@
 # GermanEnglishMachineTranslation
+
+contact  me at  shilpapathak99567660@gmail.com   for the full project
 #How to create virtual environment in Ubuntu:
 - >A s a pre-requisite,on your system python and pip package manager for python should be pre-installed (which is there in versions of Ubuntu greater than 18.04). You can also check whether python is installed in your system or not using command-> "python3 -V"
 
